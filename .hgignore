@@ -1,0 +1,3 @@
+glob:.idea/
+glob:*.class
+glob:target/

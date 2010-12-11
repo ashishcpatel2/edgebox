@@ -25,7 +25,13 @@
       <groupId>org.restlet.jee</groupId>
       <artifactId>org.restlet</artifactId>
       <version>${restlet.version}</version>
-      <scope>provided</scope>   
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.restlet.jee</groupId>
+      <artifactId>org.restlet.ext.velocity</artifactId>
+      <version>${restlet.version}</version>
+      <scope>provided</scope>
     </dependency>
   </dependencies>
 

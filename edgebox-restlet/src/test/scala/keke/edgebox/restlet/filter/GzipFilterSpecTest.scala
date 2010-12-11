@@ -9,13 +9,6 @@ import org.restlet.engine.application.EncodeRepresentation
 import org.restlet.representation.StringRepresentation
 import org.restlet.data.{MediaType, Method}
 
-/**
- * Created by IntelliJ IDEA.
- * User: qiqiqiqk
- * Date: Nov 27, 2010
- * Time: 4:08:53 PM
- * To change this template use File | Settings | File Templates.
- */
 @RunWith(classOf[JUnitSuiteRunner])
 class GzipFilterSpecTest extends SpecificationWithJUnit with Mockito {
   val Next = mock[Restlet]
