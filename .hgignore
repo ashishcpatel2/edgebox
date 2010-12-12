@@ -1,3 +1,7 @@
 glob:.idea/
 glob:*.class
 glob:target/
+glob:.project
+glob:.classpath
+glob:.settings/
+glob:*.iml
